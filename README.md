@@ -14,10 +14,10 @@ And that's it!! Happy coding
 
 # The App itself
 ## The create a quiz page
-![](feedbackr/public/Create_a_Quiz.png)
+![create a quiz](feedbackr/public/Create_a_Quiz.png)
 
 ## The view quizzes page
-![](feedbackr/public/View_Quiz1.png)
+![view quiz](feedbackr/public/View_Quiz1.png)
 
 ## The quiz page
 ![Do a Quiz](feedbackr/public/Doing_a_Quiz1.png)
@@ -27,7 +27,6 @@ And that's it!! Happy coding
 * The SASS could do with a bit of refactoring, the SCSS is not as DRY as it could be
 * Setting up multipart questions
 * Allow for the name of quiz to be saved before questions start being made
-* Unit testing could have made development smoother
 * Move to a relational database because the data is relational
 * Use more functional programming fundamentals to make the app more testable and predictable
 
@@ -37,6 +36,12 @@ And that's it!! Happy coding
 * Create a question type library - so that quizzes can be more dynamic. Examples of question types including: Matching questions to answers, Drawing out chemical formulas, Diagram annotation, Graph creation
 * Allow for PDF to quiz converters so that teachers can turn past papers (that are publicly and freely available) into online quizzes
 
-# Mater Repo
-Checkout [https://github.com/RushabhM2/feedbackr](https://github.com/RushabhM2/feedbackr) where the code is writen with useState instead of Redux. App from:
-1. [Rushabh Mehta](https://github.com/RushabhM2)
+# Contributors
+1. [Ricardo D Alvarez](https://github.com/rikiDalvarez)  
+2. [Marijana Del Bianco](https://github.com/mjdelbianco)  
+3. [Mohammed Abdul Khader](https://github.com/MohammedAK1991)  
+4. [Martin Rodl](https://github.com/martinrodl)  
+
+# Master Repo
+Checkout [https://github.com/RushabhM2/feedbackr](https://github.com/RushabhM2/feedbackr) where the code is written with useState instead of Redux.  
+App from: [Rushabh Mehta](https://github.com/RushabhM2)
